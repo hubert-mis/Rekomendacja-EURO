@@ -9,4 +9,4 @@ colnames(unemployment)[2] <- "Unemployment Rate"
 gdp <- read.csv("U:/Informatyka Ekonomiczna/Projekt/pkb.csv")
 gdp <- gdp[-(3:5)]
 colnames(gdp)[2] <- "Gross Domestic Product"
-
+#STARA WERSJA
